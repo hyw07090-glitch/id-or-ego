@@ -349,4 +349,5 @@ async def on_message(message):
         await message.reply(f"🎲 룰렛 결과!\n👉 **{선택}**", file=file,
         mention_author=False)
 
-client.run("MTQ4ODQ2MTI3MDAwNDAwNjk3Mw.G0ZlRT.Byz1byTh_zytOlKdgRgU8xcqJTelEnellm-6j8")
+import os
+bot.run(os.getenv("TOKEN"))
