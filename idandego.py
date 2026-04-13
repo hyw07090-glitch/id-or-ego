@@ -1,7 +1,9 @@
 import discord
 import random
+import os
 
 INTENTS = discord.Intents.all( )
+intents.message_content = True
 client = discord.Client( intents = INTENTS )
 
 인격목록 = {
