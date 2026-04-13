@@ -1,1 +1,1 @@
-worker: python 인격 룰렛.py
+worker: python idandego.py
