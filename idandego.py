@@ -1,10 +1,9 @@
 import discord
 import random
 import os
-
-INTENTS = discord.Intents.all( )
-intents.message_content = True
-client = discord.Client( intents = INTENTS )
+intents = discord.Intents.default()
+intents.message_content = True 
+client = discord.Client(intents=intents)
 
 인격목록 = {
     "LCB 수감자 이상": "img/LCB Yi sang.png",
