@@ -1,1 +1,1 @@
-worker: python discord.py
+worker: python 인격 룰렛.py
