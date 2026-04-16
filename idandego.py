@@ -83,6 +83,7 @@ client = discord.Client(intents=intents)
     "라만차랜드 왕자 뫼르소": "img/The_Prince_of_La_Manchaland_Meursault_Full_Uptied.png",
     "로보토미 E.G.O::호넷【변조】뫼르소": "img/Lobotomy_E.G.O_Hornet_Alteration_Meursault_Full_Uptied.png",
     "펭귄반 뫼르소" : "img/april fool mer.png",
+    "약지 야수파 스튜던트 뫼르소" : "img/The_Ring_Fauvist_Student_Meursault_Full_Uptied.png",
     "LCB 수감자 홍루": "img/LCB_Sinner_Hong_Lu_Full.png",
     "흑운회 와카슈 홍루": "img/Kurokumo_Clan_Wakashu_Hong_Lu_Full_Uptied.png",
     "남부 리우 협회 5과 홍루": "img/Liu_Assoc._South_Section_5_Hong_Lu_Full_Uptied.png",
@@ -143,6 +144,7 @@ client = discord.Client(intents=intents)
     "로보토미 E.G.O::눈물로 벼려낸 검 로쟈": "img/Lobotomy_E.G.O_The_Sword_Sharpened_with_Tears_Rodion_Full_Uptied.png",
     "R사 제 4무리 순록팀 로쟈": "img/R_Corp._4th_Pack_Reindeer_Rodion_Full_Uptied.png",
     "펭귄반 로쟈" : "img/april fool rodion.png",
+    "약지 야수파 도슨트 로쟈" : "img/The_Ring_Fauvist_Docent_Rodion_Full_Uptied.png",
     "LCB 수감자 싱클레어": "img/LCB_Sinner_Sinclair_Full.png",
     "남부 츠바이 협회 6과 싱클레어": "img/Zwei_Assoc._South_Section_6_Sinclair_Full_Uptied.png",
     "마리아치 보스 싱클레어": "img/Los_Mariachis_Jefe_Sinclair_Full_Uptied.png",
@@ -305,6 +307,8 @@ client = discord.Client(intents=intents)
 
 test = {
     "티라노반 베르길리우스" : "img/april fool red eye.png",
+    "약지 야수파 도슨트 로쟈" : "img/The_Ring_Fauvist_Docent_Rodion_Full_Uptied.png",
+    "약지 야수파 스튜던트 뫼르소" : "img/The_Ring_Fauvist_Student_Meursault_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
