@@ -59,7 +59,7 @@ client = discord.Client(intents=intents)
     "남부 리우 협회 4과 료슈": "img/Liu_Assoc._South_Section_4_Ryōshū_Full_Uptied.png",
     "20구 유로지비 료슈": "img/District_20_Yurodivy_Ryōshū_Full_Uptied.png",
     "흑운회 와카슈 료슈": "img/Kurokumo_Clan_Wakashu_Ryōshū_Full_Uptied.png",
-    "류.고.파. 주방장 료슈": "img/R.B._Chef_de_Cuisine_Ryōshū_Full_Uptied.png",
+    "료.고.파. 주방장 료슈": "img/R.B._Chef_de_Cuisine_Ryōshū_Full_Uptied.png",
     "W사 3등급 정리 요원 료슈": "img/W_Corp._L3_Cleanup_Agent_Ryōshū_Full_Uptied.png",
     "에드가 가문 치프 버틀러 료슈": "img/Edgar_Family_Chief_Butler_Ryōshū_Full_Uptied.png",
     "로보토미 E.G.O::적안 · 참회 료슈": "img/Lobotomy_E.G.O_Red_Eyes_&_Penitence_Ryōshū_Full_Uptied.png",
