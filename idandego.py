@@ -306,9 +306,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "티라노반 베르길리우스" : "img/april fool red eye.png",
-    "약지 야수파 도슨트 로쟈" : "img/The_Ring_Fauvist_Docent_Rodion_Full_Uptied.png",
-    "약지 야수파 스튜던트 뫼르소" : "img/The_Ring_Fauvist_Student_Meursault_Full_Uptied.png",
+    "봉이 유리" : "img/yuri.png",
 }
 
 # Discord 클라이언트 객체 생성
