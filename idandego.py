@@ -156,7 +156,7 @@ client = discord.Client(intents=intents)
     "쥐어들 자 싱클레어": "img/The_One_Who_Shall_Grip_Sinclair_Full_Uptied.png",
     "남부 섕크 협회 4과 부장 싱클레어": "img/Cinq_Assoc._South_Section_4_Director_Sinclair_Full_Uptied.png",
     "새벽 사무소 해결사 싱클레어": "img/Dawn_Office_Fixer_Sinclair_Full_Uptied.png",
-    "북부 제뱌찌 협회 3과": "img/Devyat'_Assoc._North_Section_3_Sinclair_Full_Uptied.png",
+    "북부 제뱌찌 협회 3과 싱클레어": "img/Devyat'_Assoc._North_Section_3_Sinclair_Full_Uptied.png",
     "중지 작은 아우 싱클레어": "img/The_Middle_Little_Brother_Sinclair_Full_Uptied.png",
     "동부 엄지 솔다토 II 싱클레어": "img/The_Thumb_East_Soldato_II_Sinclair_Full_Uptied.png",
     "흑수 - 유 싱클레어": "img/Heishou_Pack_-_You_Branch_Sinclair_Full_Uptied.png",
