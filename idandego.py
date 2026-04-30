@@ -114,6 +114,7 @@ client = discord.Client(intents=intents)
     "W사 4등급 정리 요원 - CCA 히스클리프": "img/W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff_Full_Uptied.png",
     "흑수 - 유 필두 히스클리프": "img/Heishou_Pack_-_You_Branch_Adept_Heathcliff_Full_Uptied.png",
     "병아리반 히스클리프" : "img/april fool heth.png",
+    "중지 작은 형님 히스클리프" : "img/The_Middle_Big_Brother_Heathcliff_Full_Uptied.png",
     "LCB 수감자 이스마엘": "img/LCB_Sinner_Ishmael_Full.png",
     "남부 시 협회 5과 이스마엘": "img/Shi_Assoc._South_Section_5_Ishmael_Full_Uptied.png",
     "LCCB 대리 이스마엘": "img/LCCB_Assistant_Manager_Ishmael_Full_Uptied.png",
@@ -193,6 +194,7 @@ client = discord.Client(intents=intents)
     "LCE E.G.O::AEDD 그레고르": "img/LCE_E.G.O_AEDD_Gregor_Full_Uptied.png",
     "펭귄반 그레고르" : "img/april fool gregor.png",
     "티라노반 베르길리우스" : "img/april fool red eye.png",
+    "봉이 유리" : "img/yuri.png",
 }
 
 에고목록 = {
@@ -276,6 +278,7 @@ client = discord.Client(intents=intents)
     "저주못 로쟈" : "img/Hex_Nail_Rodion.png",
     "핏빛욕망 로쟈" : "img/Sanguine_Desire_Rodion.png",
     "지정 재판 로쟈" : "img/Indicant's_Trial_Rodion.png",
+    "노을 속으로 로쟈" : "img/Into_the_Sunset_Rodion.png",
     "지식나무의 가지 싱클레어" : "img/Branch_of_Knowledge_Sinclair.png",
     "낮은울음 싱클레어" : "img/Cavernous_Wailing_Sinclair.png",
     "다가올날 싱클레어" : "img/Impending_Day_Sinclair.png",
@@ -307,6 +310,8 @@ client = discord.Client(intents=intents)
 
 test = {
     "봉이 유리" : "img/yuri.png",
+    "노을 속으로 로쟈" : "img/Into_the_Sunset_Rodion.png",
+    "중지 작은 형님 히스클리프" : "img/The_Middle_Big_Brother_Heathcliff_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
