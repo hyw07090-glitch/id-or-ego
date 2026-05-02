@@ -79,7 +79,7 @@ client = discord.Client(intents=intents)
     "검계 우두머리 뫼르소": "img/Blade_Lineage_Mentor_Meursault_Full_Uptied.png",
     "남부 디에치 협회 4과 부장 뫼르소": "img/Dieci_Assoc._South_Section_4_Director_Meursault_Full_Uptied.png",
     "서부 섕크 협회 3과 뫼르소": "img/Cinq_Assoc._West_Section_3_Meursault_Full_Uptied.png",
-    "동부 엄지 카포 IIII 뫼르소": "img/The_Thumb_East_Capo_IIII_Meursault_Full_Uptied.png",
+    "동부 엄지 카포 III 뫼르소": "img/The_Thumb_East_Capo_IIII_Meursault_Full_Uptied.png",
     "라만차랜드 왕자 뫼르소": "img/The_Prince_of_La_Manchaland_Meursault_Full_Uptied.png",
     "로보토미 E.G.O::호넷【변조】뫼르소": "img/Lobotomy_E.G.O_Hornet_Alteration_Meursault_Full_Uptied.png",
     "펭귄반 뫼르소" : "img/april fool mer.png",
