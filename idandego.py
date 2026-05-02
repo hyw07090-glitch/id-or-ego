@@ -310,9 +310,7 @@ client = discord.Client(intents=intents)
 
 test = {
     "봉이 유리" : "img/yuri.png",
-    "노을 속으로 로쟈" : "img/Into_the_Sunset_Rodion.png",
-    "중지 작은 형님 히스클리프" : "img/The_Middle_Big_Brother_Heathcliff_Full_Uptied.png",
-    "북부 제뱌찌 협회 3과 싱클레어": "img/Devyat'_Assoc._North_Section_3_Sinclair_Full_Uptied.png",
+    "동부 엄지 카포 III 뫼르소": "img/The_Thumb_East_Capo_IIII_Meursault_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
