@@ -68,6 +68,7 @@ client = discord.Client(intents=intents)
     "홍원 방랑무사 료슈": "img/Drifting_Blade_of_Hongyuan_Ryōshū_Full_Uptied.png",
     "로보토미 E.G.O::잔향 · 외로움 료슈": "img/Lobotomy_E.G.O_Faint_Aroma_&_Solitude_Ryōshū_Full_Uptied.png",
     "코끼리반 료슈" : "img/april fool ryoshu.png",
+    "거미집의 검 료슈" : "img/Blade_of_the_House_of_Spiders_Ryōshū_Full_Uptied.png",
     "LCB 수감자 뫼르소": "img/LCB_Sinner_Meursault_Full.png",
     "남부 리우 협회 6과 뫼르소": "img/Liu_Assoc._South_Section_6_Meursault_Full_Uptied.png",
     "장미스패너 공방 해결사 뫼르소": "img/Rosespanner_Workshop_Fixer_Meursault_Full_Uptied.png",
@@ -309,8 +310,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "봉이 유리" : "img/yuri.png",
-    "동부 엄지 카포 III 뫼르소": "img/The_Thumb_East_Capo_IIII_Meursault_Full_Uptied.png",
+    "거미집의 검 료슈" : "img/Blade_of_the_House_of_Spiders_Ryōshū_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
