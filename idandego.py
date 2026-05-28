@@ -178,6 +178,7 @@ client = discord.Client(intents=intents)
     "T사 3등급 강력징수직 직원 오티스": "img/T_Corp._Class_3_VDCU_Staff_Outis_Full_Uptied.png",
     "LCA 우제트 선봉 3팀 팀장 오티스": "img/LCA_Udjat_Vanguard_Team_3_Leader_Outis_Full_Uptied.png",
     "펭귄반 오티스" : "img/april fool outis.png",
+    "거미집 중지 아비 오티스" : "img/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png",
     "LCB 수감자 그레고르": "img/LCB_Sinner_Gregor_Full.png",
     "남부 리우 협회 6과 그레고르": "img/Liu_Assoc._South_Section_6_Gregor_Full_Uptied.png",
     "료.고.파. 조수 그레고르": "img/R.B._Sous-chef_Gregor_Full_Uptied.png",
@@ -310,7 +311,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "거미집의 검 료슈" : "img/Blade_of_the_House_of_Spiders_Ryōshū_Full_Uptied.png",
+    "거미집 중지 아비 오티스" : "img/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
