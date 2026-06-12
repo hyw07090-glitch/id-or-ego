@@ -100,6 +100,7 @@ client = discord.Client(intents=intents)
     "홍원 군주 홍루": "img/The_Lord_of_Hongyuan_Hong_Lu_Full_Uptied.png",
     "[ 거미집 약지 아비 ] 홍루": "img/The_House_of_Spiders_The_Ring_Nursefather_Hong_Lu_Full_Uptied.png",
     "코끼리반 홍루" : "img/april fool honglu.png",
+    "S사 추노꾼 홍루: : "img/S_Corp._Ch'unokkun_Hong_Lu_Full_Uptied.png",
     "LCB 수감자 히스클리프": "img/LCB_Sinner_Heathcliff_Full.png",
     "남부 시 협회 5과 히스클리프": "img/Shi_Assoc._South_Section_5_Heathcliff_Full_Uptied.png",
     "N사 작은 망치 히스클리프": "img/N_Corp._Kleinhammer_Heathcliff_Full_Uptied.png",
@@ -131,6 +132,7 @@ client = discord.Client(intents=intents)
     "정사무소 대표 이스마엘": "img/Jeong's_Office_Rep_Ishmael_Full_Uptied.png",
     "거미집 중지 제자 이스마엘": "img/The_House_of_Spiders_The_Middle_Apprentice_Ishmael_Full_Uptied.png",
     "병아리반 이스마엘" : "img/april fool ish.png",
+    "LCD 현장추리팀 이스마엘" : "img/LCD_OSIR_Team_Ishmael_Full_Uptied.png",
     "LCB 수감자 로쟈": "img/LCB_Sinner_Rodion_Full.png",
     "LCCB 대리 로쟈": "img/LCCB_Assistant_Manager_Rodion_Full_Uptied.png",
     "N사 중간 망치 로쟈": "img/N_Corp._Mittelhammer_Rodion_Full_Uptied.png",
@@ -244,6 +246,7 @@ client = discord.Client(intents=intents)
     "카포테 뫼르소" : "img/Capote_Meursault.png",
     "갈망 - 미르칼라 뫼르소" : "img/Yearning-Mircalla_Meursault.png",
     "분쇄될 과거 뫼르소" : "img/Crushbound_Past_Meursault.png",
+    "착영휘도[着影揮刀] 뫼르소" : "img/Shadow-vested_Bladesinger_着影揮刀_Meursault.png",
     "허환경 홍루" : "img/Land_of_Illusion_Hong_Lu.png",
     "분홍욕망 홍루" : "img/Roseate_Desire_Hong_Lu.png",
     "소다 홍루" : "img/Soda_Hong_Lu.png",
@@ -311,7 +314,9 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "거미집 중지 아비 오티스" : "img/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png",
+    "S사 추노꾼 홍루: : "img/S_Corp._Ch'unokkun_Hong_Lu_Full_Uptied.png",
+    "LCD 현장추리팀 이스마엘" : "img/LCD_OSIR_Team_Ishmael_Full_Uptied.png",
+    "착영휘도[着影揮刀] 뫼르소" : "img/Shadow-vested_Bladesinger_着影揮刀_Meursault.png",
 }
 
 # Discord 클라이언트 객체 생성
