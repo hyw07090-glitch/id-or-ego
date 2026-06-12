@@ -100,7 +100,7 @@ client = discord.Client(intents=intents)
     "홍원 군주 홍루": "img/The_Lord_of_Hongyuan_Hong_Lu_Full_Uptied.png",
     "[ 거미집 약지 아비 ] 홍루": "img/The_House_of_Spiders_The_Ring_Nursefather_Hong_Lu_Full_Uptied.png",
     "코끼리반 홍루" : "img/april fool honglu.png",
-    "S사 추노꾼 홍루: : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
+    "S사 추노꾼 홍루": : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
     "LCB 수감자 히스클리프": "img/LCB_Sinner_Heathcliff_Full.png",
     "남부 시 협회 5과 히스클리프": "img/Shi_Assoc._South_Section_5_Heathcliff_Full_Uptied.png",
     "N사 작은 망치 히스클리프": "img/N_Corp._Kleinhammer_Heathcliff_Full_Uptied.png",
@@ -314,7 +314,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "S사 추노꾼 홍루: : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
+    "S사 추노꾼 홍루": : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
     "LCD 현장추리팀 이스마엘" : "img/LCD_OSIR_Team_Ishmael_Full_Uptied.png",
     "착영휘도[着影揮刀] 뫼르소" : "img/Shadow-vested_Bladesinger_着影揮刀_Meursault.png",
 }
