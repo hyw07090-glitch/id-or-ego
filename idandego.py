@@ -314,7 +314,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "S사 추노꾼 홍루: : "img/S_Corp._Ch'unokkun_Hong_Lu_Full_Uptied.png",
+    "S사 추노꾼 홍루: : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
     "LCD 현장추리팀 이스마엘" : "img/LCD_OSIR_Team_Ishmael_Full_Uptied.png",
     "착영휘도[着影揮刀] 뫼르소" : "img/Shadow-vested_Bladesinger_着影揮刀_Meursault.png",
 }
