@@ -117,6 +117,7 @@ client = discord.Client(intents=intents)
     "흑수 - 유 필두 히스클리프": "img/Heishou_Pack_-_You_Branch_Adept_Heathcliff_Full_Uptied.png",
     "병아리반 히스클리프" : "img/april fool heth.png",
     "중지 작은 형님 히스클리프" : "img/The_Middle_Big_Brother_Heathcliff_Full_Uptied.png",
+    "거미집 엄지 제자 히스클리프" : "img/The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Full_Uptied.png",
     "LCB 수감자 이스마엘": "img/LCB_Sinner_Ishmael_Full.png",
     "남부 시 협회 5과 이스마엘": "img/Shi_Assoc._South_Section_5_Ishmael_Full_Uptied.png",
     "LCCB 대리 이스마엘": "img/LCCB_Assistant_Manager_Ishmael_Full_Uptied.png",
@@ -149,6 +150,7 @@ client = discord.Client(intents=intents)
     "R사 제 4무리 순록팀 로쟈": "img/R_Corp._4th_Pack_Reindeer_Rodion_Full_Uptied.png",
     "펭귄반 로쟈" : "img/april fool rodion.png",
     "약지 야수파 도슨트 로쟈" : "img/The_Ring_Fauvist_Docent_Rodion_Full_Uptied.png",
+    "거미집 엄지 아비 로쟈" : "The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
     "LCB 수감자 싱클레어": "img/LCB_Sinner_Sinclair_Full.png",
     "남부 츠바이 협회 6과 싱클레어": "img/Zwei_Assoc._South_Section_6_Sinclair_Full_Uptied.png",
     "마리아치 보스 싱클레어": "img/Los_Mariachis_Jefe_Sinclair_Full_Uptied.png",
@@ -314,9 +316,8 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "S사 추노꾼 홍루" : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
-    "LCD 현장추리팀 이스마엘" : "img/LCD_OSIR_Team_Ishmael_Full_Uptied.png",
-    "착영휘도[着影揮刀] 뫼르소" : "img/Shadow-vested_Bladesinger_着影揮刀_Meursault.png",
+    "거미집 엄지 제자 히스클리프" : "img/The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Full_Uptied.png",
+    "거미집 엄지 아비 로쟈" : "The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
