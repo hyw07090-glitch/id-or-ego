@@ -150,7 +150,7 @@ client = discord.Client(intents=intents)
     "R사 제 4무리 순록팀 로쟈": "img/R_Corp._4th_Pack_Reindeer_Rodion_Full_Uptied.png",
     "펭귄반 로쟈" : "img/april fool rodion.png",
     "약지 야수파 도슨트 로쟈" : "img/The_Ring_Fauvist_Docent_Rodion_Full_Uptied.png",
-    "거미집 엄지 아비 로쟈" : "The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
+    "거미집 엄지 아비 로쟈" : "img/The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
     "LCB 수감자 싱클레어": "img/LCB_Sinner_Sinclair_Full.png",
     "남부 츠바이 협회 6과 싱클레어": "img/Zwei_Assoc._South_Section_6_Sinclair_Full_Uptied.png",
     "마리아치 보스 싱클레어": "img/Los_Mariachis_Jefe_Sinclair_Full_Uptied.png",
