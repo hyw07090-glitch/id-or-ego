@@ -317,7 +317,7 @@ client = discord.Client(intents=intents)
 
 test = {
     "거미집 엄지 제자 히스클리프" : "img/The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Full_Uptied.png",
-    "거미집 엄지 아비 로쟈" : "The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
+    "거미집 엄지 아비 로쟈" : "img/The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
