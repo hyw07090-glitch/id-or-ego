@@ -38,6 +38,7 @@ client = discord.Client(intents=intents)
     "검지 수행자:【쪽지】파우스트": "img/The_Index_Proselyte_Paper_Slip_Faust_Full_Uptied.png",
     "[ 거미집 약지 제자 ] 파우스트": "img/The_House_of_Spiders_The_Ring_Apprentice_Faust_Full_Uptied.png",
     "코끼리반 파우스트" : "img/april fool faust.png",
+    "새벽 사무소 해결사 파우스트" : "img/Dawn_Office_Fixer_Faust_Full_Uptied.png",
     "LCB 수감자 돈키호테": "img/LCB_Sinner_Don_Quixote_Full.png",
     "남부 시 협회 5과 부장 돈키호테": "img/Shi_Assoc._South_Section_5_Director_Don_Quixote_Full_Uptied.png",
     "N사 중간 망치 돈키호테": "img/N_Corp._Mittelhammer_Don_Quixote_Full_Uptied.png",
@@ -199,6 +200,7 @@ client = discord.Client(intents=intents)
     "로보토미 E.G.O::램프 그레고르": "img/Lobotomy_E.G.O_Lamp_Gregor_Full_Uptied.png",
     "LCE E.G.O::AEDD 그레고르": "img/LCE_E.G.O_AEDD_Gregor_Full_Uptied.png",
     "펭귄반 그레고르" : "img/april fool gregor.png",
+    "새벽 사무소 대표 그레고르" : "img/Dawn_Office_Rep_Gregor_Full_Uptied.png",
     "티라노반 베르길리우스" : "img/april fool red eye.png",
     "봉이 유리" : "img/yuri.png",
 }
@@ -212,6 +214,7 @@ client = discord.Client(intents=intents)
     "흉탄 이상" : "img/Fell_Bullet_Yi_Sang.png",
     "여우비 이상" : "img/Sunshower_Yi_Sang.png",
     "삼천대세계 [三千大世界] 이상" : "img/Great_Trichiliocosm_三千大世界_Yi_Sang.png",
+    "엄숙한 애도 이상" : "img/Solemn_Lament_Yi_Sang.png",
     "표상 방출기 파우스트" : "img/Representation_Emitter_Faust.png",
     "저주못 파우스트" : "img/Hex_Nail_Faust.png",
     "9장 2절 파우스트" : "img/9-2_Faust.png",
@@ -316,8 +319,9 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "거미집 엄지 제자 히스클리프" : "img/The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Full_Uptied.png",
-    "거미집 엄지 아비 로쟈" : "img/The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
+    "새벽 사무소 해결사 파우스트" : "img/Dawn_Office_Fixer_Faust_Full_Uptied.png",
+    "새벽 사무소 대표 그레고르" : "img/Dawn_Office_Rep_Gregor_Full_Uptied.png",
+    "엄숙한 애도 이상" : "img/Solemn_Lament_Yi_Sang.png",
 }
 
 # Discord 클라이언트 객체 생성
