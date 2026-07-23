@@ -22,6 +22,7 @@ client = discord.Client(intents=intents)
     "흑수 - 오 필두 이상": "img/Heishou_Pack Yi_Sang.png",
     "거미집 검지 아비  이상": "img/The_Index Yi_Sang.png",
     "병아리반 이상" : "img/april fool yisang.png",
+    "LCE E.G.O::차원찢개 이상" : "img/LCE_E.G.O_Dimension_Shredder_Yi_Sang_Full_Uptied.png",
     "LCB 수감자 파우스트": "img/LCB Faust.png",
     "W사 2등급 정리 요원 파우스트": "img/W corp faust.png",
     "살아남은 로보토미 직원 파우스트": "img/Lobotomy_Corp Faust.png",
@@ -319,9 +320,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "새벽 사무소 해결사 파우스트" : "img/Dawn_Office_Fixer_Faust_Full_Uptied.png",
-    "새벽 사무소 대표 그레고르" : "img/Dawn_Office_Rep_Gregor_Full_Uptied.png",
-    "엄숙한 애도 이상" : "img/Solemn_Lament_Yi_Sang.png",
+    "LCE E.G.O::차원찢개 이상" : "img/LCE_E.G.O_Dimension_Shredder_Yi_Sang_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
