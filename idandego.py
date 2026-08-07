@@ -235,6 +235,7 @@ client = discord.Client(intents=intents)
     "홍적 돈키호테" : "img/Red_Sheet_Don_Quixote.png",
     "갈망 - 미르칼라 돈키호테" : "img/Yearning-Mircalla_Don_Quixote.png",
     "사랑과 증오의 이름으로 돈키호테" : "img/In_the_Name_of_Love_and_Hate_Don_Quixote.png",
+    "난 가위를 낼게, 너는? 돈키호테" : "img/I'll_Go_fer_Scissors._How_'Bout_You__Don_Quixote.png",
     "삼라염상 료슈" : "img/Forest_for_the_Flames_Ryoshu.png",
     "소다 료슈" : "img/Soda_Ryōshū.png",
     "적안 료슈" : "img/Red_Eyes_Ryōshū.png",
@@ -320,7 +321,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "LCE E.G.O::차원찢개 이상" : "img/LCE_E.G.O_Dimension_Shredder_Yi_Sang_Full_Uptied.png",
+    "난 가위를 낼게, 너는? 돈키호테" : "img/I'll_Go_fer_Scissors._How_'Bout_You__Don_Quixote.png",
 }
 
 # Discord 클라이언트 객체 생성
