@@ -321,7 +321,6 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "난 가위를 낼게, 너는? 돈키호테" : "img/I'll_Go_fer_Scissors._How_'Bout_You__Don_Quixote.png",
 }
 
 # Discord 클라이언트 객체 생성
