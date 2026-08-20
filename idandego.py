@@ -103,6 +103,7 @@ client = discord.Client(intents=intents)
     "[ 거미집 약지 아비 ] 홍루": "img/The_House_of_Spiders_The_Ring_Nursefather_Hong_Lu_Full_Uptied.png",
     "코끼리반 홍루" : "img/april fool honglu.png",
     "S사 추노꾼 홍루" : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
+    "동부 섕크 협회 3과 홍루" : "img/Cinq_Assoc._East_Section_3_Hong_Lu_Full_Uptied.png",
     "LCB 수감자 히스클리프": "img/LCB_Sinner_Heathcliff_Full.png",
     "남부 시 협회 5과 히스클리프": "img/Shi_Assoc._South_Section_5_Heathcliff_Full_Uptied.png",
     "N사 작은 망치 히스클리프": "img/N_Corp._Kleinhammer_Heathcliff_Full_Uptied.png",
@@ -321,6 +322,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
+    "동부 섕크 협회 3과 홍루" : "img/Cinq_Assoc._East_Section_3_Hong_Lu_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
