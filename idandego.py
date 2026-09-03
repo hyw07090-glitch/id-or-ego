@@ -319,10 +319,11 @@ client = discord.Client(intents=intents)
     "크리스마스 악몽 그레고르" : "img/Christmas_Nightmare_Gregor.png",
     "가시 화원 그레고르" : "img/Garden_of_Thorns_Gregor.png",
     "눈부시지 않은 영광 그레고르" : "img/Unbrilliant_Glory_Gregor.png",
+    "입주 신고 그레고르" : "img/Move-in_Reg._Gregor.png:,
 }
 
 test = {
-    "동부 섕크 협회 3과 홍루" : "img/Cinq_Assoc._East_Section_3_Hong_Lu_Full_Uptied.png",
+    "입주 신고 그레고르" : "img/Move-in_Reg._Gregor.png:,
 }
 
 # Discord 클라이언트 객체 생성
