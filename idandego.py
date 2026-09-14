@@ -323,7 +323,6 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "입주 신고 그레고르" : "img/Move-in_Reg._Gregor.png",
 }
 
 # Discord 클라이언트 객체 생성
