@@ -71,6 +71,7 @@ client = discord.Client(intents=intents)
     "로보토미 E.G.O::잔향 · 외로움 료슈": "img/Lobotomy_E.G.O_Faint_Aroma_&_Solitude_Ryōshū_Full_Uptied.png",
     "코끼리반 료슈" : "img/april fool ryoshu.png",
     "거미집의 검 료슈" : "img/Blade_of_the_House_of_Spiders_Ryōshū_Full_Uptied.png",
+    "오트쿠튀르::르누아르 신발관 료슈" : "img/Haute_Couture_Le_Noir_Footwear_Hall_Ryōshū_Full_Uptied.png",
     "LCB 수감자 뫼르소": "img/LCB_Sinner_Meursault_Full.png",
     "남부 리우 협회 6과 뫼르소": "img/Liu_Assoc._South_Section_6_Meursault_Full_Uptied.png",
     "장미스패너 공방 해결사 뫼르소": "img/Rosespanner_Workshop_Fixer_Meursault_Full_Uptied.png",
@@ -137,6 +138,7 @@ client = discord.Client(intents=intents)
     "거미집 중지 제자 이스마엘": "img/The_House_of_Spiders_The_Middle_Apprentice_Ishmael_Full_Uptied.png",
     "병아리반 이스마엘" : "img/april fool ish.png",
     "LCD 현장추리팀 이스마엘" : "img/LCD_OSIR_Team_Ishmael_Full_Uptied.png",
+    "오트쿠튀르::르루주 부티크 이스마엘" : "img/Haute_Couture_Boutique_du_Rouge_Ishmael_Full_Uptied.png",
     "LCB 수감자 로쟈": "img/LCB_Sinner_Rodion_Full.png",
     "LCCB 대리 로쟈": "img/LCCB_Assistant_Manager_Rodion_Full_Uptied.png",
     "N사 중간 망치 로쟈": "img/N_Corp._Mittelhammer_Rodion_Full_Uptied.png",
@@ -323,6 +325,8 @@ client = discord.Client(intents=intents)
 }
 
 test = {
+    "오트쿠튀르::르누아르 신발관 료슈" : "img/Haute_Couture_Le_Noir_Footwear_Hall_Ryōshū_Full_Uptied.png",
+    "오트쿠튀르::르루주 부티크 이스마엘" : "img/Haute_Couture_Boutique_du_Rouge_Ishmael_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
