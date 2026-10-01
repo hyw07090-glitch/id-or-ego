@@ -55,6 +55,7 @@ client = discord.Client(intents=intents)
     "흑수 - 미 돈키호테": "img/Heishou_Pack_-_Wei_Branch_Don_Quixote_Full_Uptied.png",
     "검지 대행자 - 개화 E.G.O::대행 돈키호테": "img/The_Index_Proxy_-_Effloresced_E.G.O_Procuration_Don_Quixote_Full_Uptied.png",
     "코끼리반 돈키호테" : "img/april fool donqui.png",
+    "오트쿠튀르::르누아르 브랜드 매니저 돈키호테" : "img/Haute_Couture_Le_Noir_Brand_Manager_Don_Quixote_Full_Uptied.png",
     "LCB 수감자 료슈": "img/LCB_Sinner_Ryōshū_Full.png",
     "남부 세븐 협회 6과 료슈": "img/Seven_Assoc._South_Section_6_Ryōshū_Full_Uptied.png",
     "LCCB 대리 료슈": "img/LCCB_Assistant_Manager_Ryōshū_Full_Uptied.png",
@@ -156,6 +157,7 @@ client = discord.Client(intents=intents)
     "펭귄반 로쟈" : "img/april fool rodion.png",
     "약지 야수파 도슨트 로쟈" : "img/The_Ring_Fauvist_Docent_Rodion_Full_Uptied.png",
     "거미집 엄지 아비 로쟈" : "img/The_House_of_Spiders_The_Thumb_Nursefather_Rodion_Full_Uptied.png",
+    "오트쿠튀르::수선실 로쟈" : "img/Haute_Couture_Alteration_Shop_Rodion_Full_Uptied.png",
     "LCB 수감자 싱클레어": "img/LCB_Sinner_Sinclair_Full.png",
     "남부 츠바이 협회 6과 싱클레어": "img/Zwei_Assoc._South_Section_6_Sinclair_Full_Uptied.png",
     "마리아치 보스 싱클레어": "img/Los_Mariachis_Jefe_Sinclair_Full_Uptied.png",
@@ -229,6 +231,7 @@ client = discord.Client(intents=intents)
     "명령 : 용해 파우스트" : "img/Command_-_Meltdown_Faust.png",
     "홍염살 파우스트" : "img/Ardor_Blossom_Star_Faust.png",
     "영속 파우스트" : "img/Everlasting_Faust.png",
+    "구멍 파우스트" : "img/Hollow_Faust.png",
     "라 샹그레 데 산쵸 돈키호테" : "img/La_Sangre_de_Sancho_Don_Quixote.png",
     "평생 스튜 돈키호테" : "img/Lifetime_Stew_Don_Quixote.png",
     "소망석 돈키호테" : "img/Wishing_Cairn_Don_Quixote.png",
@@ -257,6 +260,7 @@ client = discord.Client(intents=intents)
     "갈망 - 미르칼라 뫼르소" : "img/Yearning-Mircalla_Meursault.png",
     "분쇄될 과거 뫼르소" : "img/Crushbound_Past_Meursault.png",
     "착영휘도[着影揮刀] 뫼르소" : "img/Shadow-vested_Bladesinger_着影揮刀_Meursault.png",
+    "구멍 뫼르소" : "img/Hollow_Meursault.png",
     "허환경 홍루" : "img/Land_of_Illusion_Hong_Lu.png",
     "분홍욕망 홍루" : "img/Roseate_Desire_Hong_Lu.png",
     "소다 홍루" : "img/Soda_Hong_Lu.png",
@@ -266,6 +270,7 @@ client = discord.Client(intents=intents)
     "들끓는 부식 홍루" : "img/Effervescent_Corrosion_Hong_Lu.png",
     "영작오 [宁作吾] 홍루" : "img/To_Remain_Oneself_宁作吾_Hong_Lu.png",
     "오혈읍루 [汚血泣淚] 홍루" : "img/Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu.png",
+    "거절선포 홍루" : "img/Repudiation_Hong_Lu.png",
     "시체자루 히스클리프" : "img/Bodysack_Heathcliff.png",
     "홀리데이 히스클리프" : "img/Holiday_Heathcliff.png",
     "AEDD 히스클리프" : "img/AEDD_Heathcliff.png",
@@ -294,6 +299,7 @@ client = discord.Client(intents=intents)
     "핏빛욕망 로쟈" : "img/Sanguine_Desire_Rodion.png",
     "지정 재판 로쟈" : "img/Indicant's_Trial_Rodion.png",
     "노을 속으로 로쟈" : "img/Into_the_Sunset_Rodion.png",
+    "거울촉각 로쟈" : "img/Mirror-touch_Rodion.png",
     "지식나무의 가지 싱클레어" : "img/Branch_of_Knowledge_Sinclair.png",
     "낮은울음 싱클레어" : "img/Cavernous_Wailing_Sinclair.png",
     "다가올날 싱클레어" : "img/Impending_Day_Sinclair.png",
@@ -325,8 +331,12 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "오트쿠튀르::르누아르 신발관 료슈" : "img/Haute_Couture_Le_Noir_Footwear_Hall_Ryōshū_Full_Uptied.png",
-    "오트쿠튀르::르루주 부티크 이스마엘" : "img/Haute_Couture_Boutique_du_Rouge_Ishmael_Full_Uptied.png",
+    "오트쿠튀르::르누아르 브랜드 매니저 돈키호테" : "img/Haute_Couture_Le_Noir_Brand_Manager_Don_Quixote_Full_Uptied.png",
+    "오트쿠튀르::수선실 로쟈" : "img/Haute_Couture_Alteration_Shop_Rodion_Full_Uptied.png",
+    "거울촉각 로쟈" : "img/Mirror-touch_Rodion.png",
+    "구멍 파우스트" : "img/Hollow_Faust.png",
+    "구멍 뫼르소" : "img/Hollow_Meursault.png",
+    "거절선포 홍루" : "img/Repudiation_Hong_Lu.png",
 }
 
 # Discord 클라이언트 객체 생성
