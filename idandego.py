@@ -331,12 +331,6 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "오트쿠튀르::르누아르 브랜드 매니저 돈키호테" : "img/Haute_Couture_Le_Noir_Brand_Manager_Don_Quixote_Full_Uptied.png",
-    "오트쿠튀르::수선실 로쟈" : "img/Haute_Couture_Alteration_Shop_Rodion_Full_Uptied.png",
-    "거울촉각 로쟈" : "img/Mirror-touch_Rodion.png",
-    "구멍 파우스트" : "img/Hollow_Faust.png",
-    "구멍 뫼르소" : "img/Hollow_Meursault.png",
-    "거절선포 홍루" : "img/Repudiation_Hong_Lu.png",
 }
 
 # Discord 클라이언트 객체 생성
