@@ -174,6 +174,7 @@ client = discord.Client(intents=intents)
     "흑수 - 유 싱클레어": "img/Heishou_Pack_-_You_Branch_Sinclair_Full_Uptied.png",
     "거미집 소지 제자 싱클레어": "img/The_House_of_Spiders_The_Pinky_Apprentice_Sinclair_Full_Uptied.png",
     "병아리반 싱클레어" : "img/april fool sincl.png",
+    "오트쿠튀르::르루주 붉은 신 싱클레어" : "img/Haute_Couture_The_Crimson_God_of_Le_Rouge_Sinclair_Full_Uptied.png",
     "LCB 수감자 오티스": "img/LCB_Sinner_Outis_Full.png",
     "검계 살수 오티스": "img/Blade_Lineage_Salsu_Outis_Full_Uptied.png",
     "G사 부장 오티스": "img/G_Corp._Head_Manager_Outis_Full_Uptied.png",
@@ -331,6 +332,7 @@ client = discord.Client(intents=intents)
 }
 
 test = {
+    "오트쿠튀르::르루주 붉은 신 싱클레어" : "img/Haute_Couture_The_Crimson_God_of_Le_Rouge_Sinclair_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
