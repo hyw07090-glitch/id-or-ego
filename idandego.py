@@ -106,6 +106,7 @@ client = discord.Client(intents=intents)
     "코끼리반 홍루" : "img/april fool honglu.png",
     "S사 추노꾼 홍루" : "img/S_Corp_Ch'unokkun_Hong_Lu_Full_Uptied.png",
     "동부 섕크 협회 3과 홍루" : "img/Cinq_Assoc._East_Section_3_Hong_Lu_Full_Uptied.png",
+    "오트쿠튀르::르누아르 3F 방송실 홍루" : "img/Haute_Couture_Le_Noir_3F_Public_Address_Room_Hong_Lu_Full_Uptied.png",
     "LCB 수감자 히스클리프": "img/LCB_Sinner_Heathcliff_Full.png",
     "남부 시 협회 5과 히스클리프": "img/Shi_Assoc._South_Section_5_Heathcliff_Full_Uptied.png",
     "N사 작은 망치 히스클리프": "img/N_Corp._Kleinhammer_Heathcliff_Full_Uptied.png",
@@ -123,6 +124,7 @@ client = discord.Client(intents=intents)
     "병아리반 히스클리프" : "img/april fool heth.png",
     "중지 작은 형님 히스클리프" : "img/The_Middle_Big_Brother_Heathcliff_Full_Uptied.png",
     "거미집 엄지 제자 히스클리프" : "img/The_House_of_Spiders_The_Thumb_Apprentice_Heathcliff_Full_Uptied.png",
+    "오트쿠튀르::르루주 바느질의 왕 히스클리프" : "img/Haute_Couture_Le_Rouge_King_of_Needleworks_Heathcliff_Full_Uptied.png",
     "LCB 수감자 이스마엘": "img/LCB_Sinner_Ishmael_Full.png",
     "남부 시 협회 5과 이스마엘": "img/Shi_Assoc._South_Section_5_Ishmael_Full_Uptied.png",
     "LCCB 대리 이스마엘": "img/LCCB_Assistant_Manager_Ishmael_Full_Uptied.png",
@@ -332,7 +334,8 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "오트쿠튀르::르루주 붉은 신 싱클레어" : "img/Haute_Couture_The_Crimson_God_of_Le_Rouge_Sinclair_Full_Uptied.png",
+    "오트쿠튀르::르누아르 3F 방송실 홍루" : "img/Haute_Couture_Le_Noir_3F_Public_Address_Room_Hong_Lu_Full_Uptied.png",
+    "오트쿠튀르::르루주 바느질의 왕 히스클리프" : "img/Haute_Couture_Le_Rouge_King_of_Needleworks_Heathcliff_Full_Uptied.png",
 }
 
 # Discord 클라이언트 객체 생성
