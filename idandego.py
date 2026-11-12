@@ -56,6 +56,7 @@ client = discord.Client(intents=intents)
     "검지 대행자 - 개화 E.G.O::대행 돈키호테": "img/The_Index_Proxy_-_Effloresced_E.G.O_Procuration_Don_Quixote_Full_Uptied.png",
     "코끼리반 돈키호테" : "img/april fool donqui.png",
     "오트쿠튀르::르누아르 브랜드 매니저 돈키호테" : "img/Haute_Couture_Le_Noir_Brand_Manager_Don_Quixote_Full_Uptied.png",
+    "쐐기 사무소 해결사 돈키호테, 싱클레어" : "img/Wedge_Office_Fixer_Don_Quixote_Full_Uptied.png",
     "LCB 수감자 료슈": "img/LCB_Sinner_Ryōshū_Full.png",
     "남부 세븐 협회 6과 료슈": "img/Seven_Assoc._South_Section_6_Ryōshū_Full_Uptied.png",
     "LCCB 대리 료슈": "img/LCCB_Assistant_Manager_Ryōshū_Full_Uptied.png",
@@ -193,6 +194,7 @@ client = discord.Client(intents=intents)
     "LCA 우제트 선봉 3팀 팀장 오티스": "img/LCA_Udjat_Vanguard_Team_3_Leader_Outis_Full_Uptied.png",
     "펭귄반 오티스" : "img/april fool outis.png",
     "거미집 중지 아비 오티스" : "img/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png",
+    "쐐기 사무소 대표 오티스" : "img/Wedge_Office_Rep_Outis_Full_Uptied.png",
     "LCB 수감자 그레고르": "img/LCB_Sinner_Gregor_Full.png",
     "남부 리우 협회 6과 그레고르": "img/Liu_Assoc._South_Section_6_Gregor_Full_Uptied.png",
     "료.고.파. 조수 그레고르": "img/R.B._Sous-chef_Gregor_Full_Uptied.png",
@@ -274,6 +276,7 @@ client = discord.Client(intents=intents)
     "영작오 [宁作吾] 홍루" : "img/To_Remain_Oneself_宁作吾_Hong_Lu.png",
     "오혈읍루 [汚血泣淚] 홍루" : "img/Tears_of_the_Tarnished_Blood_汚血泣淚_Hong_Lu.png",
     "거절선포 홍루" : "img/Repudiation_Hong_Lu.png",
+    "눈물로 벼려낸 검 홍루" : "img/The_Sword_Sharpened_with_Tears_Hong_Lu.png",
     "시체자루 히스클리프" : "img/Bodysack_Heathcliff.png",
     "홀리데이 히스클리프" : "img/Holiday_Heathcliff.png",
     "AEDD 히스클리프" : "img/AEDD_Heathcliff.png",
@@ -334,8 +337,9 @@ client = discord.Client(intents=intents)
 }
 
 test = {
-    "오트쿠튀르::르누아르 3F 방송실 홍루" : "img/Haute_Couture_Le_Noir_3F_Public_Address_Room_Hong_Lu_Full_Uptied.png",
-    "오트쿠튀르::르루주 바느질의 왕 히스클리프" : "img/Haute_Couture_Le_Rouge_King_of_Needleworks_Heathcliff_Full_Uptied.png",
+    "쐐기 사무소 대표 오티스" : "img/Wedge_Office_Rep_Outis_Full_Uptied.png",
+    "쐐기 사무소 해결사 돈키호테, 싱클레어" : "img/Wedge_Office_Fixer_Don_Quixote_Full_Uptied.png",
+    "눈물로 벼려낸 검 홍루" : "img/The_Sword_Sharpened_with_Tears_Hong_Lu.png",
 }
 
 # Discord 클라이언트 객체 생성
